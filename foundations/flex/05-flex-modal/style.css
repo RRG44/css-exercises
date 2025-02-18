@@ -89,6 +89,11 @@ button.cancel {
   justify-content: space-between;
 }
 
+.header {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
 .close-button {
   flex: none;
 }
